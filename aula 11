@@ -1,0 +1,94 @@
+
+<script>
+    function setarTema(tema){
+    // remove classes existentes de tema
+        document.bodyclassList.remove("claro","escuro");
+
+        // adiciona a nova classe de tema
+        document.body.classList.add(tema)
+    
+    // salva o tema no localStorage
+    localStorage.setitem("temaEscolhido","tema");
+    }
+
+    // Ao carregar a página, aplicar o tema salvo (se houver)
+
+window.addEventListener
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    function setarTema(tema){
+    // remove classes existentes de tema
+        document.bodyclassList.remove("claro","escuro");
+
+        // adiciona a nova classe de tema
+        document.body.classList.add(tema)
+    
+    // salva o tema no localStorage
+    localStorage.setitem("temaEscolhido","tema");
+    }
+
+    // Ao carregar a página, aplicar o tema salvo (se houver)
+
+window.addEventListener
+
